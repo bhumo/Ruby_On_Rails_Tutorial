@@ -18,4 +18,5 @@ puts "{ } #{nextToDo} #{nextToDo}"
 # The output will be like : if nexToDo = "someValue"
 # { } someValue
 # someValue
+pust "\n"
 puts "Can we output the result (7+1): #{7 + 1}"
